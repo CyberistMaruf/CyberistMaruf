@@ -1,6 +1,6 @@
 ![logo](https://github.com/CyberistMaruf/CyberistMaruf/blob/main/covercyberist.png)
 <h1 align="center">Hi 👋, I'm Maruf Hasan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberistmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="cyberistmaruf" /> </p>
 
